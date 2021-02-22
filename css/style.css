@@ -293,4 +293,10 @@ top: 15px;
     .first-half{
         padding-right: 60px;
     }
+    .firstsection {
+        height: 120vh;
+    }
+    .second-half {
+        width: 80%;
+    }
 } 
