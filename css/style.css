@@ -304,4 +304,7 @@ top: 15px;
      .paras {
          padding: 0px 0px; 
     }
+    .main-box{
+        padding-right: 40px;
+    }
 } 
